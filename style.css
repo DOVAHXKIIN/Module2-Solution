@@ -34,7 +34,7 @@ div {
     margin-bottom: auto;
 }
 
-.a1 {
+.s1 {
     float: right;
     width: 100px;
     padding: 5px;
@@ -47,7 +47,7 @@ div {
 
 }
 
-.a2 {
+.s2 {
     float: right;
     color: white;
     width: 100px;
@@ -61,7 +61,7 @@ div {
 
 }
 
-.a3{
+.s3{
     color: black;
     float: right;
     width: 100px;
